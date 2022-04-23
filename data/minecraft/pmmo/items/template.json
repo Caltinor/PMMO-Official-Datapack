@@ -1,0 +1,30 @@
+{
+    "isTagFor":[],
+    "xp_values":{},
+    "nbt_xp_values":{},
+    "requirements":{},
+    "nbt_requirements":{},
+    "bonuses":{},
+    "nbt_bonuses":{},
+    "negative_effect":{},
+    "salvage":{
+        "minecaft:item": {
+            "salvageMax": 1,
+            "baseChance": 0.0,
+            "maxChance": 1.0,
+            "chancePerLevel": {
+                "skillname": 1
+            },
+            "levelReq": {
+                "skillname": 1
+            },
+            "xpPerItem": {
+                "skillname": 1
+            }
+        }
+    },
+    "vein_data":{
+        "chargeCap": 100,
+        "chargeRate": 0.01
+    }
+}
