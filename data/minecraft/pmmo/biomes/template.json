@@ -1,6 +1,8 @@
 {
     "isTagFor":[],
-    "bonus":{},
+    "bonus":{
+        "BIOME":{}
+    },
     "positive_effect":{},
     "negative_effect":{},
     "travel_req":{},

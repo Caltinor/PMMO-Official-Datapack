@@ -1,6 +1,8 @@
 {
     "isTagFor":[],
-    "bonus":{},
+    "bonus":{
+        "DIMENSION":{}
+    },
     "positive_effect":{},
     "negative_effect":{},
     "travel_req":{},
