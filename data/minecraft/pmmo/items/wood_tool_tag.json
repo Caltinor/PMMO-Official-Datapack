@@ -1,0 +1,24 @@
+{
+    "isTagFor":[
+        "minecraft:wooden_pickaxe", 
+        "minecraft:wooden_shovel", 
+        "minecraft:wooden_hoe", 
+        "minecraft:wooden_axe"
+    ],
+    "xp_values":{
+        "ANVIL_REPAIR": {
+            "smithing": 50
+        },
+        "CRAFT": {
+            "crafting": 100,
+            "smithing": 10
+        },
+        "ENCHANT": {
+            "magic": 50
+        }
+    },
+    "vein_data":{
+        "chargeCap": 5,
+        "chargeRate": 0.1
+    }
+}

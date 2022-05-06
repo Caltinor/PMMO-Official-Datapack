@@ -1,0 +1,14 @@
+{
+    "xp_values":{
+        "BLOCK_BREAK": {
+            "excavation":150
+        }
+    },
+    "requirements":{
+        "PLACE": {"building":0},
+        "BREAK": {"excavation":0}
+    },
+    "vein_data":{
+        "consumeAmount": 1
+    }
+}

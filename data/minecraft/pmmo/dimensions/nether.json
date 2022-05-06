@@ -1,0 +1,15 @@
+{
+    "bonus":{
+        "DIMENSION":{
+            "combat": 1.25,
+		    "archery": 1.25,
+		    "endurance": 1.25,
+		    "flying": 2.50,
+		    "farming": 0.75
+        }
+    },
+    "travel_req":{
+        "combat": 30
+    },
+    "vein_blacklist":["minecraft:bedrock"]
+}
