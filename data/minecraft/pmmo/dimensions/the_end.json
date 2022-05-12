@@ -1,0 +1,11 @@
+{
+    "bonus":{
+        "DIMENSION":{
+            "flying": 1.50,
+		    "combat": 1.20,
+		    "archery": 1.50,
+		    "endurance": 1.20
+        }
+    },
+    "vein_blacklist":["minecraft:bedrock"]
+}
