@@ -7,5 +7,32 @@
 		    "endurance": 1.20
         }
     },
-    "vein_blacklist":["minecraft:bedrock"]
+    "vein_blacklist":["minecraft:bedrock"],
+    "mob_multiplier": {
+	    "minecraft:ender_dragon": {
+            "speed": 1.25,
+		    "health": 2,
+		    "damage": 1.25
+        },
+	    "minecraft:enderman": {
+            "speed": 1.25,
+		    "health": 2,
+		    "damage": 1.25
+        },
+	    "minecraft:endermite": {
+            "speed": 1.25,
+		    "health": 2,
+		    "damage": 1.25
+        },
+	    "minecraft:phantom": {
+            "speed": 1.25,
+		    "health": 2,
+		    "damage": 1.25
+        },
+	    "minecraft:shulker": {
+            "speed": 1.25,
+		    "health": 2,
+		    "damage": 1.25
+        }
+    }
 }
