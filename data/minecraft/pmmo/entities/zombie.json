@@ -7,13 +7,13 @@
     ],
     "xp_values":{
         "FROM_MOBS": {
-            "endurance": 10
+            "endurance": 15
         },
         "MELEE_TO_MOBS": {
-            "combat": 10
+            "combat": 15
         },
         "RANGED_TO_MOBS": {
-            "archery": 10
+            "archery": 15
         },
         "DEATH": {
             "slayer": 100
