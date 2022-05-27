@@ -3,5 +3,8 @@
         "KILL":{
             "combat":2500
         }
+    },
+    "requirements": {
+        "combat": 50
     }
 }
