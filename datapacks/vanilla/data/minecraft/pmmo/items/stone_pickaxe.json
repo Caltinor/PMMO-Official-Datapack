@@ -31,7 +31,7 @@
         "minecraft:mining_fatigue":0
     },
     "salvage":{
-        "minecaft:cobblestone": {
+        "minecraft:cobblestone": {
             "salvageMax": 3,
             "baseChance": 0.0,
             "maxChance": 0.9,
