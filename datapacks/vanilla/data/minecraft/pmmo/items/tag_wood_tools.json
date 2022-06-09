@@ -17,6 +17,12 @@
             "magic": 50
         }
     },
+    "requirements": {
+        "mining": 0,
+        "excavation": 0,
+        "farming": 0,
+        "woodcutting": 0
+    },
     "vein_data":{
         "chargeCap": 5,
         "chargeRate": 0.1
