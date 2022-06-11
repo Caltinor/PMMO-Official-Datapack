@@ -3,7 +3,8 @@
         "minecraft:wooden_pickaxe", 
         "minecraft:wooden_shovel", 
         "minecraft:wooden_hoe", 
-        "minecraft:wooden_axe"
+        "minecraft:wooden_axe",
+        "minecraft:wooden_sword"
     ],
     "xp_values":{
         "ANVIL_REPAIR": {
@@ -21,7 +22,8 @@
         "mining": 0,
         "excavation": 0,
         "farming": 0,
-        "woodcutting": 0
+        "woodcutting": 0,
+        "combat": 0
     },
     "vein_data":{
         "chargeCap": 5,
