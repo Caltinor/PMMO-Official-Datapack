@@ -6,7 +6,8 @@
         "minecraft:acacia_leaves",
         "minecraft:dark_oak_leaves",
         "minecraft:azalea_leaves",
-        "minecraft:flowering_azalea_leaves"
+        "minecraft:flowering_azalea_leaves",
+        "minecraft:spruce_leaves"
     ],
     "xp_values":{
         "BLOCK_BREAK" : {
